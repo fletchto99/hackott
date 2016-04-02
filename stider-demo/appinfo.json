@@ -1,0 +1,27 @@
+{
+    "appKeys": {
+        "dummy": 0
+    },
+    "capabilities": [
+        "health"
+    ],
+    "companyName": "MakeAwesomeHappen",
+    "enableMultiJS": true,
+    "longName": "Strider",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Strider",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "5a2fe8b5-42d7-4462-b234-25e03ac2fffc",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
