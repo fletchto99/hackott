@@ -1,0 +1,27 @@
+{
+    "appKeys": {
+        "dummy": 0
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Pebble Technology",
+    "enableMultiJS": false,
+    "longName": "Concentricity",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Concentricity",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "f15dcfc2-df43-456c-abb0-8657e6733bcf",
+    "versionLabel": "1.1",
+    "watchapp": {
+        "watchface": true
+    }
+}
